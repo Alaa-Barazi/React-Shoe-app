@@ -1,0 +1,54 @@
+{
+  "shoes": [
+    {
+      "id": "3831c4c9-8951-4eb7-ad14-7bb3312c2ab9",
+      "name": "Nike",
+      "picture": "https://images.stockx.com/images/Nike-Court-Vision-Low-White-University-Red.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1642460170",
+      "price": "200"
+    },
+    {
+      "id": 1,
+      "name": "Nike1",
+      "picture": "https://images.stockx.com/images/Nike-Court-Vision-Low-White-University-Red.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1642460170",
+      "price": 200
+    },
+    {
+      "id": "37cd2a1c-bc0d-488f-9977-0492a3abfc2e",
+      "name": "Green Adidas",
+      "picture": "https://assets.adidas.com/images/w_940,f_auto,q_auto/9846b43f6434426b84faaef900bafa2c_9366/GY7338_01_standard.jpg",
+      "price": "300"
+    },
+    {
+      "id": "a28c471f-5272-4ab4-9755-03ea53f6a990",
+      "name": "new Balance",
+      "picture": "https://cdn.cashcow.co.il/images/5676f2b2-e742-4886-833c-a36eee9a1d58.png",
+      "price": "500"
+    },
+    {
+      "id": "aced2cd6-4020-4c76-a837-ef3de9a1c717",
+      "name": "new Bakance 2",
+      "picture": "https://cloudfront-eu-central-1.images.arcpublishing.com/diarioas/6XR5CI5M75CGPE5TS3SAHHEM2I.png",
+      "price": "300"
+    }
+  ],
+  "cart": [
+    {
+      "id": "3831c4c9-8951-4eb7-ad14-7bb3312c2ab9",
+      "name": "Nike",
+      "picture": "https://images.stockx.com/images/Nike-Court-Vision-Low-White-University-Red.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1642460170",
+      "price": "200"
+    },
+    {
+      "id": "37cd2a1c-bc0d-488f-9977-0492a3abfc2e",
+      "name": "Green Adidas",
+      "picture": "https://assets.adidas.com/images/w_940,f_auto,q_auto/9846b43f6434426b84faaef900bafa2c_9366/GY7338_01_standard.jpg",
+      "price": "300"
+    },
+    {
+      "id": "a28c471f-5272-4ab4-9755-03ea53f6a990",
+      "name": "new Balance",
+      "picture": "https://cdn.cashcow.co.il/images/5676f2b2-e742-4886-833c-a36eee9a1d58.png",
+      "price": "500"
+    }
+  ]
+}
